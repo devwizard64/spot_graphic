@@ -1,0 +1,18 @@
+ply
+format ascii 1.0
+comment metarep (UNSM) - mario_h_hair3b
+element vertex 3
+property short x
+property short y
+property short z
+property float nx
+property float ny
+property float nz
+property uchar alpha
+element face 1
+property list uchar uint vertex_indices
+end_header
+44 44 97 -0.296875 0.2578125 0.90625 255
+48 94 76 -0.3203125 0.75 0.5546875 255
+3 54 52 -0.8359375 0.2265625 0.46875 255
+3 0 1 2
